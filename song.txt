@@ -40,3 +40,5 @@ There's something inside me that pulls beneath the surface
 Consuming (confusing what is real)
 This lack of self control I fear is never ending
 Controlling (confusing what is real)
+
+first commit
